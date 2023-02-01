@@ -34,4 +34,12 @@ The images below are only source-images for codepen websites.
 ![IMG_4244](https://user-images.githubusercontent.com/75184965/212957021-f0c2baa5-523a-41a8-b818-72e0bbfe1811.PNG)
 ![IMG_4245](https://user-images.githubusercontent.com/75184965/212957034-4bc50b63-2582-46c4-8288-cdb1ac1f41c0.PNG)
 
+![delish-login](https://user-images.githubusercontent.com/75184965/215988799-99744031-4340-4b03-94b6-e9ef25a0622b.png)
+![delish-register](https://user-images.githubusercontent.com/75184965/215988807-4d061e35-d0cf-43f4-8a92-f2bbcf4eacf7.png)
+![restaurants](https://user-images.githubusercontent.com/75184965/215988809-75ab8969-a828-4317-8deb-df61c6f4a84e.png)
+![map](https://user-images.githubusercontent.com/75184965/215988811-91f273d5-1af4-437a-8bf1-947148fe9617.png)
+![settings](https://user-images.githubusercontent.com/75184965/215988815-9595b7b6-8bdb-4cde-a99a-cc8d42f85bd4.png)
+![favourites](https://user-images.githubusercontent.com/75184965/215988816-ab54e239-b2a6-47c3-b98e-1837e8834d7b.png)
+
+
 

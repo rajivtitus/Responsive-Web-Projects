@@ -34,12 +34,16 @@ The images below are only source-images for codepen websites.
 ![IMG_4244](https://user-images.githubusercontent.com/75184965/212957021-f0c2baa5-523a-41a8-b818-72e0bbfe1811.PNG)
 ![IMG_4245](https://user-images.githubusercontent.com/75184965/212957034-4bc50b63-2582-46c4-8288-cdb1ac1f41c0.PNG)
 
-![delish-login](https://user-images.githubusercontent.com/75184965/215988799-99744031-4340-4b03-94b6-e9ef25a0622b.png)
-![delish-register](https://user-images.githubusercontent.com/75184965/215988807-4d061e35-d0cf-43f4-8a92-f2bbcf4eacf7.png)
-![restaurants](https://user-images.githubusercontent.com/75184965/215988809-75ab8969-a828-4317-8deb-df61c6f4a84e.png)
-![map](https://user-images.githubusercontent.com/75184965/215988811-91f273d5-1af4-437a-8bf1-947148fe9617.png)
-![settings](https://user-images.githubusercontent.com/75184965/215988815-9595b7b6-8bdb-4cde-a99a-cc8d42f85bd4.png)
-![favourites](https://user-images.githubusercontent.com/75184965/215988816-ab54e239-b2a6-47c3-b98e-1837e8834d7b.png)
 
+
+![login](https://user-images.githubusercontent.com/75184965/217442759-7ecf2b0e-0deb-4236-870b-6309fd7d91d6.png)
+![register](https://user-images.githubusercontent.com/75184965/217442765-e2bf7969-dfc8-4b68-99b9-52609f4b2e64.png)
+![restaurants](https://user-images.githubusercontent.com/75184965/217442767-a179fde4-d08f-49f5-80f7-9be57bb6360a.png)
+![map](https://user-images.githubusercontent.com/75184965/217442769-5910f1a4-bd1b-4d78-bfa9-3d291837061d.png)
+![settings](https://user-images.githubusercontent.com/75184965/217442771-df0246ca-9ca7-4a74-97df-4430ef3bef3a.png)
+![restaurants-detail](https://user-images.githubusercontent.com/75184965/217442773-09fa018d-a3da-4e2c-991f-6a9ec6b800a7.png)
+![cart](https://user-images.githubusercontent.com/75184965/217442774-21fcbdeb-6b9d-4e91-ae3c-c657b99eddb3.png)
+![payments](https://user-images.githubusercontent.com/75184965/217442777-1a6960d4-3dee-488d-bf08-deba38035a55.png)
+![favourites](https://user-images.githubusercontent.com/75184965/217442779-4e078d9a-23f2-4053-afff-85e533ea4274.png)
 
 
